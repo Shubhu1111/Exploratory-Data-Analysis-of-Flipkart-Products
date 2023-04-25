@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Flipkart-Products
+# Exploratory Data Analysis of Flipkart Products
 
 Flipkart, founded in 2007 by Sachin Bansal and Binny Bansal, two former Amazon employees, is currently the biggest E-commerce website in India. Initially, Flipkart was a platform for selling books, but it later expanded to include other products like electronics, clothing, and various other consumables. This exploratory analysis aims to gain insights into Flipkart's monthly sales data, analyze product discounts and identify trends, and determine which product categories performed better in terms of sales.
 
